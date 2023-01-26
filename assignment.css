@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium';
+}
+
+h2 {
+    color: aqua;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium';
+}
+
+body {
+    border-style: double;
+    color: dodgerblue;
+}
